@@ -1,13 +1,4 @@
-/*
 
-Author : Manas Rawat
-Date : 01/01/2024
-Problem : Assign Cookies
-Difficulty : Easy
-Problem Link : https://leetcode.com/problems/assign-cookies/
-Video Solution : https://youtu.be/QKWNyBV7GJ8
-
-*/
 
 
 class Solution {
